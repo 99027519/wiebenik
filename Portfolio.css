@@ -1,0 +1,42 @@
+body {
+    background-image: url("portfolio.jpg");
+    margin-left: 400px;
+}
+
+h2 {
+    color: #01DF01;
+	margin-left: -35px;
+    }
+p {
+	color: white;
+}
+
+img {
+    float: left;
+    margin: 0 0 10px -280px;
+}
+
+img.Base{
+	float: right;
+	margin: 0 0 10px 30px;
+}
+
+a{
+	color:white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
