@@ -10,15 +10,11 @@ h2 {
 p {
 	color: white;
 }
-
-img {
-    float: left;
-    margin: 0 0 10px -280px;
-}
-
-img.Base{
-	float: right;
-	margin: 0 0 10px 30px;
+img.Profiel {
+	width: 200px;
+	height: 270px;
+	float:right;
+	margin-right: 430px;
 }
 
 a{
@@ -39,4 +35,11 @@ a:hover {
 
 a:active {
     text-decoration: underline;
+}
+img.Base {
+	margin-top: 260px;
+	width: 380px;
+	height: 240px;
+	float:right;
+	margin-right: 160px;
 }
